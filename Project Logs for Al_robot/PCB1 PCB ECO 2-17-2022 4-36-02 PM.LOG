@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=B.6_EN Pin=U4-11
+Added Component: Designator=JP?(Jumper Small - 2.54 - GRAY)
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Defualt State"; Value = "Close"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Date"; Value = "2011/11/02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B.6_EN Pin=JP?-1
+Added Pin To Net: NetName=NetJP?_2 Pin=JP?-2
+Added Pin To Net: NetName=NetJP?_2 Pin=U4-11
+Added Net: Name=NetJP?_2
+Added Member To Class: ClassName=Sheet1 Member=Component JP? Jumper
+Added Room: Name=Sheet1

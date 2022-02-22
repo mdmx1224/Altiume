@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=B.6_EN Pin=U4-11
+Added Component: Designator=R3(RES-(1/1))
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B.6_EN Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U4-11
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=Sheet1 Member=Component R3 1K
+Added Room: Name=Sheet1

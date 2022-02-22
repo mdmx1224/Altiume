@@ -1,0 +1,80 @@
+Added Component: Designator=DHT1(DHT22)
+Added Component: Designator=P2(HDR1X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U3(Multiwatt15V)
+Add component (AddParameter): Name = "Datasheet"; Value = "Latest Revision: Jul-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Information"; Value = "Latest Revision: Apr-1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "Multiwatt15H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision 1"; Value = "24-Aug-2001: Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision 2"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=U4(Multiwatt15V)
+Add component (AddParameter): Name = "Datasheet"; Value = "Latest Revision: Jul-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Information"; Value = "Latest Revision: Apr-1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "Multiwatt15H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision 1"; Value = "24-Aug-2001: Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision 2"; Value = "17-Jul-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=DHT1-1
+Added Pin To Net: NetName=GND Pin=DHT1-4
+Added Pin To Net: NetName=+5 Pin=P2-18
+Added Pin To Net: NetName=GND Pin=P2-19
+Added Pin To Net: NetName=GND Pin=P3-19
+Added Pin To Net: NetName=GND Pin=P3-20
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=+5 Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=+5 Pin=U4-9
+Added Pin To Net: NetName=A.4_DHT Pin=DHT1-2
+Added Pin To Net: NetName=A.4_DHT Pin=P3-14
+Added Net: Name=A.4_DHT
+Added Pin To Net: NetName=A.8_IN Pin=P2-5
+Added Pin To Net: NetName=A.8_IN Pin=U4-5
+Added Net: Name=A.8_IN
+Added Pin To Net: NetName=A.9_IN Pin=P2-6
+Added Pin To Net: NetName=A.9_IN Pin=U4-7
+Added Net: Name=A.9_IN
+Added Pin To Net: NetName=A.10_IN Pin=P2-7
+Added Pin To Net: NetName=A.10_IN Pin=U4-10
+Added Net: Name=A.10_IN
+Added Pin To Net: NetName=A.11_IN Pin=P2-8
+Added Pin To Net: NetName=A.11_IN Pin=U4-12
+Added Net: Name=A.11_IN
+Added Pin To Net: NetName=A.12_IN Pin=P2-9
+Added Pin To Net: NetName=A.12_IN Pin=U3-10
+Added Net: Name=A.12_IN
+Added Pin To Net: NetName=A.15_IN Pin=P2-10
+Added Pin To Net: NetName=A.15_IN Pin=U3-12
+Added Net: Name=A.15_IN
+Added Pin To Net: NetName=B.3_IN Pin=P2-11
+Added Pin To Net: NetName=B.3_IN Pin=U3-5
+Added Net: Name=B.3_IN
+Added Pin To Net: NetName=B.4_IN Pin=P2-12
+Added Pin To Net: NetName=B.4_IN Pin=U3-7
+Added Net: Name=B.4_IN
+Added Pin To Net: NetName=B.6_EN Pin=P2-14
+Added Pin To Net: NetName=B.6_EN Pin=U4-6
+Added Net: Name=B.6_EN
+Added Pin To Net: NetName=B.7_EN Pin=P2-15
+Added Pin To Net: NetName=B.7_EN Pin=U4-11
+Added Net: Name=B.7_EN
+Added Pin To Net: NetName=B.8_EN Pin=P2-16
+Added Pin To Net: NetName=B.8_EN Pin=U3-6
+Added Net: Name=B.8_EN
+Added Pin To Net: NetName=B.9_EN Pin=P2-17
+Added Pin To Net: NetName=B.9_EN Pin=U3-11
+Added Net: Name=B.9_EN
+Added Member To Class: ClassName=Sheet1 Member=Component DHT1 DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 20
+Added Member To Class: ClassName=Sheet1 Member=Component U3 L298N
+Added Member To Class: ClassName=Sheet1 Member=Component U4 L298N
+Added Room: Name=Sheet1
