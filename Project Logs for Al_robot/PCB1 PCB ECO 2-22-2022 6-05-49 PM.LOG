@@ -1,0 +1,11 @@
+Added Component: Designator=JP?(Jumper)
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Defualt State"; Value = "Close"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Date"; Value = "2011/11/02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B.8_EN Pin=JP?-1
+Added Pin To Net: NetName=NetJP?_2 Pin=JP?-2
+Added Pin To Net: NetName=NetJP?_2 Pin=U3-11
+Added Net: Name=NetJP?_2
+Added Member To Class: ClassName=Sheet1 Member=Component JP? Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component R4 1K
+Added Room: Name=Sheet1
