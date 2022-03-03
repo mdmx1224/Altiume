@@ -1,0 +1,6 @@
+Added Component: Designator=DHT22(DHT22)
+Added Pin To Net: NetName=+5 Pin=DHT22-1
+Added Pin To Net: NetName=A.4_DHT Pin=DHT22-2
+Added Pin To Net: NetName=GND Pin=DHT22-4
+Added Member To Class: ClassName=Sheet1 Member=Component DHT22
+Added Room: Name=Sheet1
