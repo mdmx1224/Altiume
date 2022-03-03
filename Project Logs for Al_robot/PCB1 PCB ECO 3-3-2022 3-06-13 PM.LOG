@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=JP7-1
+Removed Pin From Net: NetName=GND Pin=JP7-2
+Removed Member From Class: ClassName=Sheet1 Member=JP7
+Added Component: Designator=JP?(Jumper)
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Defualt State"; Value = "Close"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Date"; Value = "2011/11/02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP? Jumper
+Added Room: Name=Sheet1
