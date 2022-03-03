@@ -1,0 +1,55 @@
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=P8 NewDesignator=P9
+Change Component Designator: OldDesignator=P9 NewDesignator=P10
+Change Component Designator: OldDesignator=P10 NewDesignator=P11
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Added Component: Designator=DHT1(DHT22)
+Added Component: Designator=P3(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-(1/4))
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-(1/4))
+Add component (AddParameter): Name = "Designer"; Value = "Ali Hafizi"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=DHT1-1
+Added Pin To Net: NetName=NetDHT1_2 Pin=DHT1-2
+Added Pin To Net: NetName=GND Pin=DHT1-4
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=+5 Pin=P3-4
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Pin To Net: NetName=+5 Pin=R4-2
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetP4_1
+Change Net Name : Old Net Name=NetP3_2 New Net Name=NetP4_2
+Change Net Name : Old Net Name=NetP6_5 New Net Name=NetP7_5
+Change Net Name : Old Net Name=NetP6_6 New Net Name=NetP7_6
+Change Net Name : Old Net Name=NetP6_7 New Net Name=NetP7_7
+Change Net Name : Old Net Name=NetP6_8 New Net Name=NetP7_8
+Change Net Name : Old Net Name=NetP6_11 New Net Name=NetP7_11
+Change Net Name : Old Net Name=NetP6_12 New Net Name=NetP7_12
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR6_2
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=P7-16
+Added Pin To Net: NetName=NetP3_1 Pin=R4-1
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=P7-15
+Added Pin To Net: NetName=NetP3_2 Pin=R3-1
+Added Net: Name=NetP3_2
+Added Member To Class: ClassName=Sheet1 Member=Component DHT1 DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P5 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P11 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component R5 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 1K
+Added Room: Name=Sheet1
