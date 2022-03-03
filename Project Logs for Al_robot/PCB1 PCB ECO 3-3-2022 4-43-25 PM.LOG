@@ -1,0 +1,12 @@
+Added Component: Designator=DHT1(DHT22)
+Added Pin To Net: NetName=+5 Pin=DHT1-1
+Added Pin To Net: NetName=NetDHT1_2 Pin=DHT1-2
+Added Pin To Net: NetName=GND Pin=DHT1-4
+Added Member To Class: ClassName=Sheet1 Member=Component DHT1 DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP5 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP7 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP9 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP10 Jumper
+Added Room: Name=Sheet1

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+12 Pin=JP1-1
+Removed Pin From Net: NetName=+12 Pin=JP1-2
+Removed Member From Class: ClassName=Sheet1 Member=JP1
+Added Member To Class: ClassName=Sheet1 Member=Component JP8 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP10 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP12 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP13 Jumper
+Added Room: Name=Sheet1

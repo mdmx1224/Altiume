@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=+12 Pin=*2-2
+Removed Pin From Net: NetName=+12 Pin=*2-2
+Removed Pin From Net: NetName=+12 Pin=*2-2
+Removed Pin From Net: NetName=+12 Pin=*2-2
+Removed Pin From Net: NetName=+12 Pin=*2-2
+Removed Pin From Net: NetName=+12 Pin=*2-2
+Removed Pin From Net: NetName=+12 Pin=*2-2
+Removed Pin From Net: NetName=+12 Pin=*2-2
+Removed Pin From Net: NetName=+12 Pin=*2-2
+Removed Pin From Net: NetName=+12 Pin=U4-4
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP6
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP8
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP9
+Added Component: Designator=DHT1(DHT22)
+Added Component: Designator=JP1(Jumper)
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Defualt State"; Value = "Close"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Date"; Value = "2011/11/02"; VariantName = "[No Variations]"
+Added Component: Designator=JP7(Jumper)
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Defualt State"; Value = "Close"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Date"; Value = "2011/11/02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=DHT1-1
+Added Pin To Net: NetName=NetDHT1_2 Pin=DHT1-2
+Added Pin To Net: NetName=GND Pin=DHT1-4
+Added Pin To Net: NetName=+12 Pin=JP1-2
+Added Pin To Net: NetName=+12 Pin=JP7-2
+Change Net Name : Old Net Name=NetJP2_2 New Net Name=NetJP3_2
+Change Net Name : Old Net Name=NetJP4_2 New Net Name=NetJP5_2
+Change Net Name : Old Net Name=NetJP5_2 New Net Name=NetJP6_2
+Change Net Name : Old Net Name=NetJP6_2 New Net Name=NetJP8_2
+Change Net Name : Old Net Name=NetJP7_2 New Net Name=NetJP9_2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=JP1-1
+Added Net: Name=Net*2_2
+Added Pin To Net: NetName=NetJP7_1 Pin=JP7-1
+Added Pin To Net: NetName=NetJP7_1 Pin=U4-4
+Added Net: Name=NetJP7_1
+Added Member To Class: ClassName=Sheet1 Member=Component DHT1 DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component JP8 Jumper
+Added Member To Class: ClassName=Sheet1 Member=Component JP9 Jumper
+Added Room: Name=Sheet1

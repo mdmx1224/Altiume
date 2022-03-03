@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+12 Pin=U3-4
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP1
+Added Component: Designator=DHT1(DHT22)
+Added Component: Designator=JP2(Jumper)
+Add component (AddParameter): Name = "Company"; Value = "E.P.I.L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Defualt State"; Value = "Close"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Date"; Value = "2011/11/02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=DHT1-1
+Added Pin To Net: NetName=NetDHT1_2 Pin=DHT1-2
+Added Pin To Net: NetName=GND Pin=DHT1-4
+Added Pin To Net: NetName=+12 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=U3-4
+Added Net: Name=NetJP2_1
+Added Member To Class: ClassName=Sheet1 Member=Component DHT1 DHT22
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 Jumper
+Added Room: Name=Sheet1
